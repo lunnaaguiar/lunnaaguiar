@@ -15,11 +15,9 @@
 
 <hr>
 
-<h3 align="center">🏆 GitHub Profile Trophy</h3>
+### 📊 Contribution Graph
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lunnaaguiar&theme=darkhub&no-frame=true&no-bg=true" />
-</p>
+![Snake animation](https://github.com/lunnaaguiar/lunnaaguiar/blob/output/github-contribution-grid-snake.svg)
 
 <hr>
 
