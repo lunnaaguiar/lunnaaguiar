@@ -16,7 +16,7 @@
 ### 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lunnaaguiar&theme=darkhub&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lunnaaguiar" />
 </p>
 
 ---
@@ -24,5 +24,5 @@
 ### 📍 Profile Visitor Count
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/lunnaaguiar/count.svg" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=lunnaaguiar&color=blue)
 </p>
