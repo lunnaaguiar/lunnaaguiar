@@ -2,58 +2,27 @@
 
 ### ⚙️ GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=lunnaaguiar&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunnaaguiar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=lunnaaguiare&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-
---- 
-
-### 🏆 GitHub Profile Trophy
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lunnaaguiar&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunnaaguiar&layout=compact&theme=dark" />
+</p>
 
 <p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=lunnaaguiar&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lunnaaguiar&theme=dark" />
 </p>
 
 ---
 
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
+### 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <img
-    src="https://profile-counter.glitch.me/lunnaaguiar/count.svg"
-    alt="Número de visitantes no perfil"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=lunnaaguiar&theme=darkhub&no-frame=true&no-bg=true" />
+</p>
+
+---
+
+### 📍 Profile Visitor Count
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/lunnaaguiar/count.svg" />
 </p>
