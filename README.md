@@ -12,13 +12,6 @@
 </p>
 
 ---
-
-<hr>
-
-### 📊 Contribution Graph
-
-![Snake animation](https://github.com/lunnaaguiar/lunnaaguiar/blob/output/github-contribution-grid-snake.svg)
-
 <hr>
 
 <h3 align="center">📍 Profile Visitor Count</h3>
