@@ -26,7 +26,10 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
----
+<div align="center">
+  <img src="./assets/gif/tumblr.webp" width="300">
+</div>
+
 <hr>
 
 <h3 align="center">📍 Profile Visitor Count</h3>
