@@ -1,7 +1,9 @@
 ## Olá, meu nome é Lunna!
-<h1 align="center">
-  <font color="#4A90E2">Bem-vindo ao meu GitHub :)</font>
-</h1>
+<div align="center">
+
+<img src="./assets/welcome.svg" alt="Bem-vindo ao meu GitHub ( ˶ˆᗜˆ˵ )">
+
+</div>
 
 ### ⚙️ GitHub Analytics
 
