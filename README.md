@@ -1,4 +1,7 @@
 ## Olá, meu nome é Lunna!
+<h1 align="center">
+  <font color="#4A90E2">Bem-vindo ao meu GitHub :)</font>
+</h1>
 
 ### ⚙️ GitHub Analytics
 
