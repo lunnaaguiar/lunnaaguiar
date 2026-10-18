@@ -18,7 +18,9 @@
 <div align="center">
   <img src="./assets/gif/coins.gif" width="200" alt="Moedas">
 </div>
+
 ---
+
 ##  Atualmente aprendendo
 
 <div>
