@@ -1,7 +1,7 @@
 ## Olá, meu nome é Lunna!
 <div align="center">
 
-<img src="./assets/welcome.svg" alt="Bem-vindo ao meu GitHub ( ˶ˆᗜˆ˵ )">
+<img src="./assets/welcome.svg" alt="Bem-vindo ao meu GitHub!">
 
 </div>
 
