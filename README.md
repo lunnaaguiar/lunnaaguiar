@@ -15,6 +15,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lunnaaguiar&theme=dark" />
 </p>
 
+<div align="center">
+  <img src="./assets/gif/coins.gif" width="200" alt="Moedas">
+</div>
 ---
 ##  Atualmente aprendendo
 
