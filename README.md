@@ -37,5 +37,5 @@
 <h3 align="center">📍 Profile Visitor Count</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lunnaaguiar&color=blue" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lunnaaguiar.lunnaaguiar" />
 </p>
